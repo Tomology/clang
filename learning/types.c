@@ -1,5 +1,6 @@
 /*
 The C language has the following data types:
+
         TYPE                STORAGE SIZE        VALUE RANGE
 
         char                1 byte              -128 to 127 or 0 to 255
@@ -14,5 +15,7 @@ The C language has the following data types:
                             32 bit OS
         unsigned long       8 bytes             0 to 18446744073709551615
 
-        
+        float               4 bytes             1.2E-38 to 3.4E+38
+
+
 */
