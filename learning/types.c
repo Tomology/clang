@@ -3,7 +3,7 @@ The C language has the following data types:
 
         TYPE                STORAGE SIZE        VALUE RANGE
 
-        char                1 byte              -128 to 127 or 0 to 255
+        char                1 byte              Stores letters from the ASCII chart but it can hold small integers from -128 to 127 or 0 to 255.
         unsigned char       1 byte              0 to 255
         signed char         1 byte              -128 to 127
         int                 2 or 4 bytes        -32,768 to 32,767 or -2,147,483,648 to 2,147,483,647
